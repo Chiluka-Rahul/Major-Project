@@ -11,6 +11,8 @@
     - [**Source Code**](https://github.com/Chiluka-Rahul/Major-Project/blob/main/Lateral%20load%20%2B%20Combined%20Load%20code)
 + It is `Python-code` that describes the way of deflection on a pile by providing suitable parameters for it.
 
+## Certificate for Paper publication in RICE 2023
++ [**CERTIFICATE**](https://drive.google.com/file/d/1RPDRCG8UBdii6hmS9d6KVtiyckY5Beyn/view)
 
 
 
