@@ -6,7 +6,7 @@
 
 ## To Check the Results:
 + For Combined Loads
-    - [**Source Code**](https://github.com/Chiluka-Rahul/Major-Project/blob/main/Combined%20Load%20Code)
+    - [**Source Code**](https://github.com/Chiluka-Rahul/Major-Project/blob/main/code.py)
 + For Lateral load + Combined Load code
     - [**Source Code**](https://github.com/Chiluka-Rahul/Major-Project/blob/main/Lateral%20load%20%2B%20Combined%20Load%20code)
 
